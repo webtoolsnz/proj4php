@@ -1,5 +1,5 @@
 {
-    "name": "proj4php/proj4php",
+    "name": "webtoolsnz/proj4php",
     "license": "LGPL-2.1",
     "type": "library",
     "description": "A PHP-Class for geographic coordinates transformation using proj4 definitions, thanks to a translation from Proj4JS",
@@ -9,7 +9,7 @@
         "proj4",
         "proj4js"
     ],
-    "homepage": "https://github.com/proj4php/proj4php",
+    "homepage": "https://github.com/webtoolsnz/proj4php",
     "authors": [
         {
             "name": "julien2512",
@@ -38,7 +38,7 @@
     },
     "autoload": {
         "psr-4": {
-            "proj4php\\": "src/"
+            "webtoolsnz\\proj4php\\": "src/"
         }
     }
 }
